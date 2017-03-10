@@ -1,3 +1,4 @@
 commit 1
 master moves 2
 My branch initial commit
+commit 2
