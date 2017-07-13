@@ -3,3 +3,4 @@ master moves 2
 master moves 3
 master moves 4
 master moves 5
+master moves 6
